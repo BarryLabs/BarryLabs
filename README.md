@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BarryLabs
-- 🌱 I’m currently learning CybSec and Networking.
+- 🌱 I’m a college student and currently learning all sorts of topics in IT guided by my current focus which is on blockchain and security.
 - 📫 How to reach me; "cbarrybiz@outlook.com".
 
 <!---
